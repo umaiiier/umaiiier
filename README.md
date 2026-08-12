@@ -17,10 +17,16 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/umairnaseerbscs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>&nbsp;&nbsp;
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/>&nbsp;&nbsp;
+
   <img src="https://cdn.simpleicons.org/behance" alt="Behance" width="30" height="30"/>&nbsp;&nbsp;
+
   <img src="https://cdn.simpleicons.org/discord" alt="Discord" width="30" height="30"/>&nbsp;&nbsp;
+
   <img src="https://cdn.simpleicons.org/reddit" alt="Reddit" width="30" height="30"/>
 </p>
 
