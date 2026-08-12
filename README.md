@@ -16,52 +16,21 @@
 
 ### 🔗 Connect with me
 
-<h3>🔗 Connect with me</h3>
-
 <p align="left">
-  <a href="https://linkedin.com/in/umairnaseerbscs"
-     target="_blank"
-     style="display:inline-block; text-decoration:none !important;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn"
-         width="30"
-         height="30">
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/"
-     target="_blank"
-     style="display:inline-block; text-decoration:none !important;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
-         alt="Instagram"
-         width="30"
-         height="30">
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.behance.net/"
-     target="_blank"
-     style="display:inline-block; text-decoration:none !important;">
-    <img src="https://cdn.simpleicons.org/behance"
-         alt="Behance"
-         width="30"
-         height="30">
-  </a>&nbsp;&nbsp;
-
-  <a href="https://discord.com/"
-     target="_blank"
-     style="display:inline-block; text-decoration:none !important;">
-    <img src="https://cdn.simpleicons.org/discord"
-         alt="Discord"
-         width="30"
-         height="30">
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.reddit.com/"
-     target="_blank"
-     style="display:inline-block; text-decoration:none !important;">
-    <img src="https://cdn.simpleicons.org/reddit"
-         alt="Reddit"
-         width="30"
-         height="30">
+  <a href="https://linkedin.com/in/umairnaseerbscs">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30" alt="Instagram">
+  </a>
+  <a href="https://www.behance.net/">
+    <img src="https://cdn.simpleicons.org/behance" width="30" height="30" alt="Behance">
+  </a>
+  <a href="https://discord.com/">
+    <img src="https://cdn.simpleicons.org/discord" width="30" height="30" alt="Discord">
+  </a>
+  <a href="https://www.reddit.com/">
+    <img src="https://cdn.simpleicons.org/reddit" width="30" height="30" alt="Reddit">
   </a>
 </p>
 
