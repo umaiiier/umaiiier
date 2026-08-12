@@ -17,8 +17,24 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/umairnaseerbscs" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+  <a href="https://linkedin.com/in/umairnaseerbscs" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="30"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.behance.net/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/behance" alt="Behance" height="30" width="30"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://discord.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/discord" alt="Discord" height="30" width="30"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.reddit.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/reddit" alt="Reddit" height="30" width="30"/>
   </a>
 </p>
 
