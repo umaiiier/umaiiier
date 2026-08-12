@@ -21,13 +21,21 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>&nbsp;&nbsp;
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/>&nbsp;&nbsp;
+  <a href="YOUR-INSTAGRAM-LINK" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/>
+  </a>&nbsp;&nbsp;
 
-  <img src="https://cdn.simpleicons.org/behance" alt="Behance" width="30" height="30"/>&nbsp;&nbsp;
+  <a href="YOUR-BEHANCE-LINK" target="_blank">
+    <img src="https://cdn.simpleicons.org/behance" alt="Behance" width="30" height="30"/>
+  </a>&nbsp;&nbsp;
 
-  <img src="https://cdn.simpleicons.org/discord" alt="Discord" width="30" height="30"/>&nbsp;&nbsp;
+  <a href="YOUR-DISCORD-LINK" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord" alt="Discord" width="30" height="30"/>
+  </a>&nbsp;&nbsp;
 
-  <img src="https://cdn.simpleicons.org/reddit" alt="Reddit" width="30" height="30"/>
+  <a href="YOUR-REDDIT-LINK" target="_blank">
+    <img src="https://cdn.simpleicons.org/reddit" alt="Reddit" width="30" height="30"/>
+  </a>
 </p>
 
 <br>
